@@ -1,0 +1,13 @@
+{
+  "itemGroup.neo218sumple": "Example Mod Tab",
+  "block.neo218sumple.example_block": "Example Block",
+  "item.neo218sumple.example_item": "Example Item",
+
+  "neo218sumple.configuration.title": "Neo21_8sumple Configs",
+  "neo218sumple.configuration.section.neo218sumple.common.toml": "Neo21_8sumple Configs",
+  "neo218sumple.configuration.section.neo218sumple.common.toml.title": "Neo21_8sumple Configs",
+  "neo218sumple.configuration.items": "Item List",
+  "neo218sumple.configuration.logDirtBlock": "Log Dirt Block",
+  "neo218sumple.configuration.magicNumberIntroduction": "Magic Number Text",
+  "neo218sumple.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.neo218sumple": "俺のタブ",
+  "block.neo218sumple.example_block": "俺のブロック",
+  "item.neo218sumple.example_item": "俺のアイテム",
+
+  "neo218sumple.configuration.title": "俺コンフィグ",
+  "neo218sumple.configuration.section.neo218sumple.common.toml": "俺コンフィグ2",
+  "neo218sumple.configuration.section.neo218sumple.common.toml.title": "俺コンフィグ3",
+  "neo218sumple.configuration.items": "アイテムリスト",
+  "neo218sumple.configuration.logDirtBlock": "ログダートブロック",
+  "neo218sumple.configuration.magicNumberIntroduction": "マジックナンバーテキスト",
+  "neo218sumple.configuration.magicNumber": "マジックナンバー"
+}
